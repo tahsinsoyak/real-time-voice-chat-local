@@ -1,0 +1,9 @@
+numpy
+sounddevice
+pygame
+gTTS
+transformers
+# for gpu usage
+# conda install pytorch torchvision torchaudio cudatoolkit=11.8 -c pytorch -c nvidia
+# for cpu usage
+# conda install pytorch torchvision torchaudio cpuonly -c pytorch
