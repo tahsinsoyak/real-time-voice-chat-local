@@ -6,16 +6,19 @@ This project leverages Hugging Face's Transformers and model hub to load and run
 
 ## Installation
 1. Clone the repository.
-2. Create a Python virtual environment:
+   ```
+   git clone https://github.com/tahsinsoyak/real-time-voice-chat-local.git
+   ```
+3. Create a Python virtual environment:
    ```
    python -m venv venv
    ```
-3. Activate the virtual environment:
+4. Activate the virtual environment:
    - On Windows:
      ```
      venv\Scripts\activate
      ```
-4. Install dependencies:
+5. Install dependencies:
    ```
    pip install -r requirements.txt
    ```
